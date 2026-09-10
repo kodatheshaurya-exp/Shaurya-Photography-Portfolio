@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1067" viewBox="0 0 1600 1067">
+  <defs>
+    <linearGradient id="g118" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131211"/>
+      <stop offset="1" stop-color="#171614"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1067" fill="url(#g118)"/>
+  <rect x="0.5" y="0.5" width="1599" height="1066" fill="none" stroke="#3a3833" stroke-width="1"/>
+  <line x1="0" y1="0" x2="1600" y2="1067" stroke="#2a2926" stroke-width="1"/>
+  <line x1="1600" y1="0" x2="0" y2="1067" stroke="#2a2926" stroke-width="1"/>
+  <text x="800.0" y="523.5" font-family="Helvetica, Arial, sans-serif" font-size="59" fill="#8a877f" text-anchor="middle">NCC DIARIES 06</text>
+  <text x="800.0" y="549.5" font-family="Helvetica, Arial, sans-serif" font-size="41" fill="#5f5d58" text-anchor="middle">Replace: assets/img/placeholders/ncc-diaries-06.svg  (1600x1067)</text>
+</svg>

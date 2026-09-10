@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1500" viewBox="0 0 1500 1500">
+  <defs>
+    <linearGradient id="g124" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141312"/>
+      <stop offset="1" stop-color="#181715"/>
+    </linearGradient>
+  </defs>
+  <rect width="1500" height="1500" fill="url(#g124)"/>
+  <rect x="0.5" y="0.5" width="1499" height="1499" fill="none" stroke="#3a3833" stroke-width="1"/>
+  <line x1="0" y1="0" x2="1500" y2="1500" stroke="#2a2926" stroke-width="1"/>
+  <line x1="1500" y1="0" x2="0" y2="1500" stroke="#2a2926" stroke-width="1"/>
+  <text x="750.0" y="740.0" font-family="Helvetica, Arial, sans-serif" font-size="83" fill="#8a877f" text-anchor="middle">NANJANGUD NEWS 03</text>
+  <text x="750.0" y="766.0" font-family="Helvetica, Arial, sans-serif" font-size="57" fill="#5f5d58" text-anchor="middle">Replace: assets/img/placeholders/nanjangud-news-03.svg  (1500x1500)</text>
+</svg>

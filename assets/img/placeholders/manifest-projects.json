@@ -1,0 +1,302 @@
+{
+  "kalamandir-files": [
+    {
+      "file": "kalamandir-files-01.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 400"
+    },
+    {
+      "file": "kalamandir-files-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/250s \u00b7 ISO 1600"
+    },
+    {
+      "file": "kalamandir-files-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "kalamandir-files-04.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 1600"
+    },
+    {
+      "file": "kalamandir-files-05.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 400"
+    },
+    {
+      "file": "kalamandir-files-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "kalamandir-files-07.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 400"
+    },
+    {
+      "file": "kalamandir-files-08.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 1600"
+    }
+  ],
+  "mysore-diaries": [
+    {
+      "file": "mysore-diaries-01.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/320s \u00b7 ISO 800"
+    },
+    {
+      "file": "mysore-diaries-02.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 28mm f/2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "mysore-diaries-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "mysore-diaries-04.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "mysore-diaries-05.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "mysore-diaries-06.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/5.6 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "mysore-diaries-07.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/320s \u00b7 ISO 200"
+    },
+    {
+      "file": "mysore-diaries-08.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/320s \u00b7 ISO 400"
+    }
+  ],
+  "long-walk-in-ladakh": [
+    {
+      "file": "long-walk-in-ladakh-01.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "long-walk-in-ladakh-02.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/125s \u00b7 ISO 800"
+    },
+    {
+      "file": "long-walk-in-ladakh-03.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "long-walk-in-ladakh-04.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/125s \u00b7 ISO 400"
+    },
+    {
+      "file": "long-walk-in-ladakh-05.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "long-walk-in-ladakh-06.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/125s \u00b7 ISO 800"
+    },
+    {
+      "file": "long-walk-in-ladakh-07.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 800"
+    },
+    {
+      "file": "long-walk-in-ladakh-08.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 800"
+    }
+  ],
+  "the-protest": [
+    {
+      "file": "the-protest-01.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 800"
+    },
+    {
+      "file": "the-protest-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "the-protest-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "the-protest-04.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 1600"
+    },
+    {
+      "file": "the-protest-05.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 1600"
+    },
+    {
+      "file": "the-protest-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/125s \u00b7 ISO 400"
+    },
+    {
+      "file": "the-protest-07.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "the-protest-08.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 400"
+    }
+  ],
+  "ncc-diaries": [
+    {
+      "file": "ncc-diaries-01.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/500s \u00b7 ISO 1600"
+    },
+    {
+      "file": "ncc-diaries-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/500s \u00b7 ISO 1600"
+    },
+    {
+      "file": "ncc-diaries-03.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "ncc-diaries-04.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 1600"
+    },
+    {
+      "file": "ncc-diaries-05.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/500s \u00b7 ISO 1600"
+    },
+    {
+      "file": "ncc-diaries-06.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "ncc-diaries-07.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 1600"
+    },
+    {
+      "file": "ncc-diaries-08.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/125s \u00b7 ISO 1600"
+    }
+  ],
+  "nanjangud-news": [
+    {
+      "file": "nanjangud-news-01.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "nanjangud-news-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "nanjangud-news-03.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "nanjangud-news-04.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "nanjangud-news-05.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "nanjangud-news-06.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 28mm f/2 \u00b7 f/5.6 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "nanjangud-news-07.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/320s \u00b7 ISO 200"
+    },
+    {
+      "file": "nanjangud-news-08.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 200"
+    }
+  ]
+}

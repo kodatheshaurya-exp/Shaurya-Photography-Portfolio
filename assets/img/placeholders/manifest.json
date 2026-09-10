@@ -1,0 +1,436 @@
+{
+  "sports": [
+    {
+      "file": "sports-01.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 70-200mm f/2.8 \u00b7 f/2.8 \u00b7 1/3200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "sports-02.svg",
+      "w": 1600,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 400mm f/2.8 \u00b7 f/4 \u00b7 1/3200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "sports-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 70-200mm f/2.8 \u00b7 f/4 \u00b7 1/1600s \u00b7 ISO 400"
+    },
+    {
+      "file": "sports-04.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 70-200mm f/2.8 \u00b7 f/4 \u00b7 1/3200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "sports-05.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 70-200mm f/2.8 \u00b7 f/3.2 \u00b7 1/2000s \u00b7 ISO 1600"
+    },
+    {
+      "file": "sports-06.svg",
+      "w": 1600,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 70-200mm f/2.8 \u00b7 f/4 \u00b7 1/2000s \u00b7 ISO 400"
+    },
+    {
+      "file": "sports-07.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 70-200mm f/2.8 \u00b7 f/3.2 \u00b7 1/3200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "sports-08.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 400mm f/2.8 \u00b7 f/4 \u00b7 1/1600s \u00b7 ISO 800"
+    },
+    {
+      "file": "sports-09.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 70-200mm f/2.8 \u00b7 f/3.2 \u00b7 1/3200s \u00b7 ISO 800"
+    },
+    {
+      "file": "sports-10.svg",
+      "w": 1600,
+      "h": 900,
+      "exif": "Camera Body B \u00b7 400mm f/2.8 \u00b7 f/2.8 \u00b7 1/1600s \u00b7 ISO 400"
+    }
+  ],
+  "events": [
+    {
+      "file": "events-01.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "events-02.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/2 \u00b7 1/125s \u00b7 ISO 1600"
+    },
+    {
+      "file": "events-03.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 24-70mm f/2.8 \u00b7 f/2.8 \u00b7 1/200s \u00b7 ISO 800"
+    },
+    {
+      "file": "events-04.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 24-70mm f/2.8 \u00b7 f/2.8 \u00b7 1/200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "events-05.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/3.5 \u00b7 1/200s \u00b7 ISO 800"
+    },
+    {
+      "file": "events-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/3.5 \u00b7 1/160s \u00b7 ISO 1600"
+    },
+    {
+      "file": "events-07.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2 \u00b7 1/200s \u00b7 ISO 1600"
+    },
+    {
+      "file": "events-08.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/3.5 \u00b7 1/125s \u00b7 ISO 3200"
+    },
+    {
+      "file": "events-09.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/160s \u00b7 ISO 800"
+    },
+    {
+      "file": "events-10.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/2.8 \u00b7 1/160s \u00b7 ISO 800"
+    }
+  ],
+  "street": [
+    {
+      "file": "street-01.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 800"
+    },
+    {
+      "file": "street-02.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 800"
+    },
+    {
+      "file": "street-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 200"
+    },
+    {
+      "file": "street-04.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "street-05.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "street-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "street-07.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/5.6 \u00b7 1/320s \u00b7 ISO 400"
+    },
+    {
+      "file": "street-08.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 28mm f/2 \u00b7 f/5.6 \u00b7 1/320s \u00b7 ISO 800"
+    },
+    {
+      "file": "street-09.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "street-10.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "street-11.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 800"
+    },
+    {
+      "file": "street-12.svg",
+      "w": 1500,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 28mm f/2 \u00b7 f/2.8 \u00b7 1/320s \u00b7 ISO 800"
+    }
+  ],
+  "portrait": [
+    {
+      "file": "portrait-01.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 135mm f/2 \u00b7 f/1.8 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "portrait-02.svg",
+      "w": 1200,
+      "h": 1600,
+      "exif": "Camera Body A \u00b7 85mm f/1.4 \u00b7 f/1.4 \u00b7 1/200s \u00b7 ISO 200"
+    },
+    {
+      "file": "portrait-03.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 135mm f/2 \u00b7 f/1.4 \u00b7 1/200s \u00b7 ISO 400"
+    },
+    {
+      "file": "portrait-04.svg",
+      "w": 1200,
+      "h": 1600,
+      "exif": "Camera Body B \u00b7 135mm f/2 \u00b7 f/2 \u00b7 1/320s \u00b7 ISO 200"
+    },
+    {
+      "file": "portrait-05.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 85mm f/1.4 \u00b7 f/1.4 \u00b7 1/320s \u00b7 ISO 100"
+    },
+    {
+      "file": "portrait-06.svg",
+      "w": 1200,
+      "h": 1600,
+      "exif": "Camera Body B \u00b7 135mm f/2 \u00b7 f/2 \u00b7 1/250s \u00b7 ISO 100"
+    },
+    {
+      "file": "portrait-07.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 135mm f/2 \u00b7 f/1.8 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "portrait-08.svg",
+      "w": 1200,
+      "h": 1600,
+      "exif": "Camera Body A \u00b7 85mm f/1.4 \u00b7 f/1.4 \u00b7 1/200s \u00b7 ISO 100"
+    },
+    {
+      "file": "portrait-09.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 85mm f/1.4 \u00b7 f/1.8 \u00b7 1/250s \u00b7 ISO 200"
+    },
+    {
+      "file": "portrait-10.svg",
+      "w": 1200,
+      "h": 1600,
+      "exif": "Camera Body A \u00b7 135mm f/2 \u00b7 f/1.8 \u00b7 1/320s \u00b7 ISO 200"
+    }
+  ],
+  "documentary": [
+    {
+      "file": "documentary-01.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/125s \u00b7 ISO 800"
+    },
+    {
+      "file": "documentary-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "documentary-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 800"
+    },
+    {
+      "file": "documentary-04.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 400"
+    },
+    {
+      "file": "documentary-05.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/125s \u00b7 ISO 1600"
+    },
+    {
+      "file": "documentary-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/1.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "documentary-07.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body A \u00b7 50mm f/1.2 \u00b7 f/2.8 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "documentary-08.svg",
+      "w": 1600,
+      "h": 1067,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 800"
+    },
+    {
+      "file": "documentary-09.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 35mm f/1.4 \u00b7 f/4 \u00b7 1/500s \u00b7 ISO 400"
+    },
+    {
+      "file": "documentary-10.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 50mm f/1.2 \u00b7 f/4 \u00b7 1/250s \u00b7 ISO 1600"
+    }
+  ],
+  "architecture": [
+    {
+      "file": "architecture-01.svg",
+      "w": 1200,
+      "h": 1200,
+      "exif": "Camera Body B \u00b7 16-35mm f/4 \u00b7 f/8 \u00b7 1/13s \u00b7 ISO 200"
+    },
+    {
+      "file": "architecture-02.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 24mm f/1.4 (tilt-shift) \u00b7 f/11 \u00b7 1/30s \u00b7 ISO 100"
+    },
+    {
+      "file": "architecture-03.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 24mm f/1.4 (tilt-shift) \u00b7 f/9 \u00b7 1/30s \u00b7 ISO 100"
+    },
+    {
+      "file": "architecture-04.svg",
+      "w": 1200,
+      "h": 1200,
+      "exif": "Camera Body B \u00b7 16-35mm f/4 \u00b7 f/11 \u00b7 1/60s \u00b7 ISO 100"
+    },
+    {
+      "file": "architecture-05.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 24mm f/1.4 (tilt-shift) \u00b7 f/8 \u00b7 1/60s \u00b7 ISO 200"
+    },
+    {
+      "file": "architecture-06.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 24mm f/1.4 (tilt-shift) \u00b7 f/9 \u00b7 1/60s \u00b7 ISO 200"
+    },
+    {
+      "file": "architecture-07.svg",
+      "w": 1200,
+      "h": 1200,
+      "exif": "Camera Body B \u00b7 16-35mm f/4 \u00b7 f/11 \u00b7 1/30s \u00b7 ISO 100"
+    },
+    {
+      "file": "architecture-08.svg",
+      "w": 1200,
+      "h": 1500,
+      "exif": "Camera Body B \u00b7 16-35mm f/4 \u00b7 f/9 \u00b7 1/30s \u00b7 ISO 200"
+    },
+    {
+      "file": "architecture-09.svg",
+      "w": 1500,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 16-35mm f/4 \u00b7 f/11 \u00b7 1/60s \u00b7 ISO 200"
+    },
+    {
+      "file": "architecture-10.svg",
+      "w": 1200,
+      "h": 1200,
+      "exif": "Camera Body A \u00b7 24mm f/1.4 (tilt-shift) \u00b7 f/9 \u00b7 1/30s \u00b7 ISO 100"
+    }
+  ],
+  "landscape": [
+    {
+      "file": "landscape-01.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/11 \u00b7 1/8s \u00b7 ISO 200"
+    },
+    {
+      "file": "landscape-02.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 24-70mm f/2.8 \u00b7 f/11 \u00b7 1/60s \u00b7 ISO 100"
+    },
+    {
+      "file": "landscape-03.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/8 \u00b7 1/8s \u00b7 ISO 100"
+    },
+    {
+      "file": "landscape-04.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/13 \u00b7 1/8s \u00b7 ISO 200"
+    },
+    {
+      "file": "landscape-05.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body A \u00b7 16-35mm f/4 \u00b7 f/13 \u00b7 1/8s \u00b7 ISO 200"
+    },
+    {
+      "file": "landscape-06.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 24-70mm f/2.8 \u00b7 f/13 \u00b7 1/8s \u00b7 ISO 100"
+    },
+    {
+      "file": "landscape-07.svg",
+      "w": 1800,
+      "h": 1000,
+      "exif": "Camera Body B \u00b7 24-70mm f/2.8 \u00b7 f/13 \u00b7 1/60s \u00b7 ISO 200"
+    },
+    {
+      "file": "landscape-08.svg",
+      "w": 2100,
+      "h": 900,
+      "exif": "Camera Body A \u00b7 24-70mm f/2.8 \u00b7 f/13 \u00b7 1/8s \u00b7 ISO 100"
+    }
+  ]
+}
