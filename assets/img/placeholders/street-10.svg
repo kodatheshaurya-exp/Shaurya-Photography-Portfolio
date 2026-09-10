@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <defs>
+    <linearGradient id="g35" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100f0e"/>
+      <stop offset="1" stop-color="#141311"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#g35)"/>
+  <rect x="0.5" y="0.5" width="1199" height="1499" fill="none" stroke="#3a3833" stroke-width="1"/>
+  <line x1="0" y1="0" x2="1200" y2="1500" stroke="#2a2926" stroke-width="1"/>
+  <line x1="1200" y1="0" x2="0" y2="1500" stroke="#2a2926" stroke-width="1"/>
+  <text x="600.0" y="740.0" font-family="Helvetica, Arial, sans-serif" font-size="66" fill="#8a877f" text-anchor="middle">STREET 10</text>
+  <text x="600.0" y="766.0" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#5f5d58" text-anchor="middle">Replace: assets/img/placeholders/street-10.svg  (1200x1500)</text>
+</svg>
