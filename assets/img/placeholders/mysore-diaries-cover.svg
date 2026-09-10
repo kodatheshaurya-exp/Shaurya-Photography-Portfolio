@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1250" viewBox="0 0 2000 1250">
+  <defs>
+    <linearGradient id="g85" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100f0e"/>
+      <stop offset="1" stop-color="#141311"/>
+    </linearGradient>
+  </defs>
+  <rect width="2000" height="1250" fill="url(#g85)"/>
+  <rect x="0.5" y="0.5" width="1999" height="1249" fill="none" stroke="#3a3833" stroke-width="1"/>
+  <line x1="0" y1="0" x2="2000" y2="1250" stroke="#2a2926" stroke-width="1"/>
+  <line x1="2000" y1="0" x2="0" y2="1250" stroke="#2a2926" stroke-width="1"/>
+  <text x="1000.0" y="615.0" font-family="Helvetica, Arial, sans-serif" font-size="69" fill="#8a877f" text-anchor="middle">MYSORE DIARIES</text>
+  <text x="1000.0" y="641.0" font-family="Helvetica, Arial, sans-serif" font-size="48" fill="#5f5d58" text-anchor="middle">Cover — replace: assets/img/placeholders/mysore-diaries-cover.svg</text>
+</svg>

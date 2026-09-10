@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="900" viewBox="0 0 2100 900">
+  <defs>
+    <linearGradient id="g68" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#131211"/>
+      <stop offset="1" stop-color="#171614"/>
+    </linearGradient>
+  </defs>
+  <rect width="2100" height="900" fill="url(#g68)"/>
+  <rect x="0.5" y="0.5" width="2099" height="899" fill="none" stroke="#3a3833" stroke-width="1"/>
+  <line x1="0" y1="0" x2="2100" y2="900" stroke="#2a2926" stroke-width="1"/>
+  <line x1="2100" y1="0" x2="0" y2="900" stroke="#2a2926" stroke-width="1"/>
+  <text x="1050.0" y="440.0" font-family="Helvetica, Arial, sans-serif" font-size="50" fill="#8a877f" text-anchor="middle">LANDSCAPE 01</text>
+  <text x="1050.0" y="466.0" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#5f5d58" text-anchor="middle">Replace: assets/img/placeholders/landscape-01.svg  (2100x900)</text>
+</svg>
